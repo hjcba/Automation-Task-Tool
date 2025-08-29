@@ -20,7 +20,7 @@
 ### 步骤 1：克隆仓库
 
 ```bash
-git clone https://github.com/yourusername/Automation-Task-Tool.git
+git clone https://github.com/hjcba/Automation-Task-Tool.git
 步骤 2：安装所需库
 确保你已经安装了 Python 3.x。当前该项目没有外部依赖，但将来可能会有。可以通过以下命令安装依赖（如果未来有更多依赖）。
 
@@ -94,4 +94,5 @@ Fork 本仓库。
 免责声明：该工具仍处于开发阶段，部分功能可能不完整或存在 bug。使用时请自行确保备份重要数据，避免数据丢失。
 
 提醒：请勿使用此工具来清理或删除重要数据。
+
 也许我会添加一些功能，但是目前这个项目只是个样本。
